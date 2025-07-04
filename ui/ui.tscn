@@ -1,8 +1,8 @@
 [gd_scene load_steps=6 format=3 uid="uid://cvl4jsitsxp0u"]
 
-[ext_resource type="Script" path="res://ui/ui.gd" id="1_3uiwb"]
-[ext_resource type="Script" path="res://ui/mouse_mode.gd" id="2_rhohj"]
-[ext_resource type="Script" path="res://ui/player_panel_contiainer.gd" id="4_0te8w"]
+[ext_resource type="Script" uid="uid://dednumaehd2py" path="res://ui/ui.gd" id="1_3uiwb"]
+[ext_resource type="Script" uid="uid://b1rm6bxc6qajb" path="res://ui/mouse_mode.gd" id="2_rhohj"]
+[ext_resource type="Script" uid="uid://dojd1n6qgxqb4" path="res://ui/player_panel_contiainer.gd" id="4_0te8w"]
 [ext_resource type="Resource" uid="uid://rclnl7v8k722" path="res://user_data/user_data_events.res" id="5_tmjbr"]
 [ext_resource type="PackedScene" uid="uid://dpre6ebljycx4" path="res://ui/player_panel.tscn" id="6_lta7j"]
 
